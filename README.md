@@ -40,6 +40,39 @@ If you want to deploy to GitHub Pages using GitHub Actions, see:
 Or, add a Netlify config and deploy to Netlify.
 
 
+## Documentation
+
+### Installation
+
+Install Ruby and Bundler at the user level.
+
+Clone the project or your copy of the template.
+
+Install project dependencies:
+
+```sh
+$ make install
+```
+
+### Usage
+
+Start dev server:
+
+```sh
+$ make serve
+```
+
+Open in the browser:
+
+- http://localhost:4000/jekyll-bootstrap-quickstart/
+
+Build:
+
+```sh
+$ make build
+```
+
+
 ## How it works
 
 - Bootstrap gem is installed using [Gemfile][/Gemfile].
