@@ -10,7 +10,7 @@ baseurl: /jekyll-bootstrap-quickstart
 
 sass:
   load_paths:
-    - _sass
+    - _sass/
     - vendor/bundle/ruby/3.0.0/gems/
 
 defaults:
