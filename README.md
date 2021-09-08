@@ -3,8 +3,8 @@
 
 <!-- Badges generated with https://github.com/MichaelCurrin/badge-generator -->
 
-[![GH Pages Deploy](https://github.com/MichaelCurrin/jekyll-bootstrap-quickstartworkflows/GH%20Pages%20Deploy/badge.svg)](https://github.com/MichaelCurrin/jekyll-bootstrap-quickstartactions/workflows/main.yml)
-[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/jekyll-gh-actions-quickstart?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/jekyll-bootstrap-quickstartreleases/)
+[![GH Pages Deploy](https://github.com/MichaelCurrin/jekyll-bootstrap-quickstart/workflows/GH%20Pages%20Deploy/badge.svg)](https://github.com/MichaelCurrin/jekyll-bootstrap-quickstart/actions/workflows/main.yml)
+[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/jekyll-gh-actions-quickstart?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/jekyll-bootstrap-quickstart/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
 [![Made with Ruby](https://img.shields.io/badge/Ruby->=2.6-blue?logo=ruby&logoColor=white)](https://ruby-lang.org)
@@ -30,7 +30,7 @@ This project includes the Bootstrap gem so that the Bootstrap styling can be loa
 
 <div align="center">
 
-[![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/jekyll-bootstrap-quickstartgenerate)
+[![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/jekyll-bootstrap-quickstart/generate)
 
 </div>
 
