@@ -5,7 +5,15 @@ layout: default
 
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/jekyll-bootstrap-quickstart?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/jekyll-bootstrap-quickstart/releases/)
 
-Welcome to **Jekyll Bootstrap Quickstart** project - a template, demo and tutorial.
+Welcome to **Jekyll Bootstrap Quickstart** project.
+
+
+This site is built on:
+
+- [Jekyll](https://jekyllrb.com)
+- [Bootstrap](https://rubygems.org/gems/bootstrap) gem
+- [Bootstrap](https://getbootstrap.com/) CSS framework
+
 
 _Source code:_
 
