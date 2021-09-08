@@ -8,6 +8,11 @@ description: Starter template for using Jekyll 4 and the Bootstrap gem - with Gi
 url: https://michaelcurrin.github.io
 baseurl: /jekyll-bootstrap-quickstart
 
+sass:
+  load_paths:
+    - _sass
+    - vendor/bundle/ruby/3.0.0/gems/
+
 defaults:
   - scope:
       path: "*.md"
