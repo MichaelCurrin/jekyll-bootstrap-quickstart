@@ -14,9 +14,7 @@
 ## Preview
 
 <div align="center">
-    <a href="https://michaelcurrin.github.io/jekyll-bootstrap-quickstart">
-        <img src="/sample.png" alt="Sample screenshot" width="500" />
-    </a>
+    <img src="/sample.png" alt="Sample screenshot" width="500" />
 </div>
 
 
@@ -35,6 +33,12 @@ This project includes the Bootstrap gem so that the Bootstrap styling can be loa
 [![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/jekyll-bootstrap-quickstartgenerate)
 
 </div>
+
+If you want to deploy to GitHub Pages using GitHub Actions, see:
+
+- [MichaelCurrin/jekyll-gh-actions-quickstart](https://github.com/MichaelCurrin/jekyll-gh-actions-quickstart)
+
+Or, add a Netlify config and deploy to Netlify.
 
 
 ## License
