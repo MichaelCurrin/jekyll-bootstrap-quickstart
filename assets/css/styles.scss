@@ -1,0 +1,13 @@
+---
+---
+
+// Any custom Bootstrap variables should come before the import.
+// ...
+
+// Unfortunately the X.Y.Z version has to exactly match what you have installed.
+// There might be a more elegant way to do this in Jekyll/SCSS.
+@import "bootstrap-5.1.0/assets/stylesheets/bootstrap";
+
+// Any other custom CSS can follow here.
+
+// ...
