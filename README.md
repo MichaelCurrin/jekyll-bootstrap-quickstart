@@ -1,5 +1,5 @@
 # Jekyll Bootstrap Quickstart 🧪 🥾 🚀
-> Starter template for using Jekyll 4 and the Bootstrap gem - with GitHub Actions
+> Starter template for using Jekyll 4 and the Bootstrap gem
 
 <!-- Badges generated with https://github.com/MichaelCurrin/badge-generator -->
 
@@ -39,6 +39,13 @@ If you want to deploy to GitHub Pages using GitHub Actions, see:
 - [MichaelCurrin/jekyll-gh-actions-quickstart](https://github.com/MichaelCurrin/jekyll-gh-actions-quickstart)
 
 Or, add a Netlify config and deploy to Netlify.
+
+
+## How it works
+
+- Bootstrap gem is installed using [Gemfile][/Gemfile].
+- The [\_config.yml](/_config.yml) is set up to load SASS styling from gems. This extra work is because the gem was not made to be compatible with Jekyll.
+- The [styles.scss](/assets/css/styles.scss) file is set up to load from the Bootstrap gem.
 
 
 ## License
