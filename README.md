@@ -10,28 +10,22 @@
 [![Made with Ruby](https://img.shields.io/badge/Ruby->=2.6-blue?logo=ruby&logoColor=white)](https://ruby-lang.org)
 [![Made with Jekyll](https://img.shields.io/badge/Jekyll-4.2-blue?logo=jekyll&logoColor=white)](https://jekyllrb.com)
 
-[![Hosted with GH Pages](https://img.shields.io/badge/Hosted_with-GitHub_Pages-blue?logo=github&logoColor=white)](https://pages.github.com/)
-[![Made with GH Actions](https://img.shields.io/badge/CI-GitHub_Actions-blue?logo=github-actions&logoColor=white)](https://github.com/features/actions)
-
 
 ## Preview
 
 <div align="center">
     <a href="https://michaelcurrin.github.io/jekyll-bootstrap-quickstart">
-        <img src="/sample.png" alt="Sample screenshot" title="Go to demo site" width="500" />
+        <img src="/sample.png" alt="Sample screenshot" width="500" />
     </a>
 </div>
 
 
-## Website
+## About
 
-This project uses **GitHub Actions** to build the site with Jekyll 4 and make the output available to serve as static output with GitHub Pages.
+This project includes the Bootstrap gem so that the Bootstrap styling can be loaded as CSS, without having to use NPM.
 
-<div align="center">
-
-[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-blue?style=for-the-badge)](https://michaelcurrin.github.io/jekyll-bootstrap-quickstart "Go to demo site")
-
-</div>
+- [bootstrap](https://rubygems.org/gems/bootstrap) on RubyGems.
+- [twbs/bootstrap-rubygem](https://github.com/twbs/bootstrap-rubygem) repo.
 
 
 ## How to use this template
