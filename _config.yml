@@ -22,4 +22,5 @@ defaults:
 exclude:
   - LICENSE
   - README.md
+  - Makefile
   - sample.png
