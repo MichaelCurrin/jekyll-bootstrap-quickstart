@@ -19,7 +19,7 @@
 
 ## About
 
-This project includes the Bootstrap gem so that the Bootstrap styling can be loaded as CSS, without having to use NPM.
+This project includes the Bootstrap gem. So Bootstrap styling can be loaded as your CSS, without having to use NPM commands.
 
 - [bootstrap](https://rubygems.org/gems/bootstrap) on RubyGems.
 - [twbs/bootstrap-rubygem](https://github.com/twbs/bootstrap-rubygem) repo.
